@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diodver
-- 👀 I’m interested in web-design - full stack developer junior
+- 👀 I’m interested in full stack developer junior
 - 🌱 I’m currently learning full stack developer
 
 <!---
